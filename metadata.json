@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Watertight Construction",
+  "description": "Professional construction and waterproofing, concrete foundations, and residential remodels in Taylorville, IL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
